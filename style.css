@@ -189,7 +189,7 @@ body{
 
 
 .hardskills{
-    width: 50%;
+    width: 50rem;
     text-align: center;
 }
 .hardskills img{
@@ -198,7 +198,7 @@ body{
 }
 
 .presentation{
-    width: 50%;
+    width: 50rem;
     padding: 3rem 5rem;
     font-size: 24px;
     text-align: justify;

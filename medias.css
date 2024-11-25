@@ -40,6 +40,8 @@
     font-size: 17px;
 }
 
+
+
 .presentation{
     padding: 2rem 4rem;
     font-size: 20px;
@@ -272,15 +274,18 @@
         font-size: 9px;
     }
     
+    .skills{
+        flex-wrap: wrap;
+    }
     .presentation{
-        padding: 0 1.5rem;
+        padding: 1rem 1.5rem;
         font-size: 12px;
     }
 
     
     .hardskills img{
-        width: 60%;
-        padding-top: 0.5rem;
+        width: 30%;
+        padding-top: 0;
     }
 
     .cards{
