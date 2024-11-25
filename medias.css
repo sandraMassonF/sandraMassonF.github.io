@@ -198,7 +198,7 @@
         top: 0;
         left: 0;
         width: 100%;
-        background-color: rgba(0, 0, 0, 0.441);
+        background-color: #104f4c;
         z-index: 100;
     }
     
@@ -214,7 +214,7 @@
     }
 
     .topnav.responsive a:hover{
-        background-color: rgba(221, 221, 221, 0.514);
+        background-color: #1c89859d;
     }
   }
 
