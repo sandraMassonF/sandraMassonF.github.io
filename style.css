@@ -66,8 +66,20 @@ body{
     background-position: cover;  
     height: 50rem;
 }
+
+.reseaux{
+    width: 6rem;
+    height: 20rem;
+    padding: 1rem;
+    background: rgba( 250, 245, 245, 0.05 );
+    box-shadow: 0 8px 32px 0 #9191936f;
+    backdrop-filter: blur( 1px );
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.093);
+}
+
 .reseaux img{
-    width:150%;   
+    width:100%;   
 }
 
 
@@ -134,7 +146,8 @@ body{
 }
 
 .titreskills{
-    background-image: url(./img/fond2.png);
+    background-image: url(./img/fond.png);
+    background-position: bottom;
     height: 5rem;    
     margin-bottom: 4rem;
 }
@@ -179,7 +192,8 @@ body{
     font-size: 26px;
     text-align: center;
     margin: auto;
-    box-shadow: -1px 2px 22px 8px rgba(0, 0, 0, 0.27);
+    border-radius: 30px;    
+    box-shadow:  22px 22px 46px #c8cfd0,-22px -22px 46px #eef3f5;
 }
 
 .bouton:hover{
